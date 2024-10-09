@@ -1,27 +1,28 @@
-Bank Management System
-Overview
+# Bank Management System
+
+# Overview
 The Bank Management System is a Java-based desktop application designed to manage customer accounts, handle transactions, and perform banking operations such as balance inquiries, deposits, withdrawals, and transaction history management. It features a user-friendly interface and uses MySQL as the database to store customer and transaction data.
 
-Features
+# Features
 1. User Login System
 2. Account Balance Check
 3. Money Deposit and Withdrawal
 4. Transaction History
 5. Account Management
 
-Technologies Used
+# Technologies Used
 1. Java: Core programming language for building the system.
 2. MySQL: Database system used to store and retrieve account and transaction data.
 3. NetBeans: Integrated Development Environment (IDE) used for writing, testing, and debugging the application.
 4. JDK: Java Development Kit required to run the system.
 
-Prerequisites
+# Prerequisites
 Before running the project, ensure you have the following installed:
 1. NetBeans IDE
 2. MySQL Server
 3. Java Development Kit (JDK)
 
-Setup Instructions
+# Setup Instructions
 Step 1: Install MySQL Server
 Download and install MySQL Server from the official website.
 Create a new database called bank_management_system using the MySQL command line or MySQL Workbench.
